@@ -1,0 +1,1 @@
+{"version":3,"file":"createPrismaClient.js","sourceRoot":"","sources":["../../src/libs/createPrismaClient.ts"],"names":[],"mappings":";;;AAAA,2CAA8C;AAEvC,MAAM,kBAAkB,GAAG,GAAiB,EAAE,CAAC,IAAI,qBAAY,EAAE,CAAC;AAA5D,QAAA,kBAAkB,sBAA0C"}
